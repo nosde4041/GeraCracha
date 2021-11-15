@@ -1,0 +1,25 @@
+{
+  "name": "geracracha",
+  "version": "1.0.0",
+  "description": "O aplicativo tem como função principal gerar os crachás dos funcionários da empresa, utilizando uma imagem de background com o logotipo, bem como a foto do empregado e alguns dados importantes, como nome e matrícula.\r O arquivo de saída para impressão terá o formato PDF, sendo dimensionado para as Impressoras Evolis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosde4041/GeraCracha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nosde4041/GeraCracha/issues"
+  },
+  "homepage": "https://github.com/nosde4041/GeraCracha#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "html-pdf": "^3.0.1"
+  }
+}
