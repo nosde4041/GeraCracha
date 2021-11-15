@@ -11,8 +11,8 @@ O arquivo de saída para impressão terá o formato PDF, sendo dimensionado para
 
 # ETAPAS DO PROJETO
 
-[ ] Desenvolver o módulo de design do crachá em HTML e CSS.
-[ ] Desenvolver o módulo de geração do arquivo PDF.
+[ ] Desenvolver o módulo de design do crachá em HTML e CSS
+[ ] Desenvolver o módulo de geração do arquivo PDF
 
 # AUTOR DO PROJETO
 
